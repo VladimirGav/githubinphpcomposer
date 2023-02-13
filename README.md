@@ -21,3 +21,12 @@ You can install the package via composer:
 ```bash
 composer require vladimirgav/githubinphpcomposer
 ```
+
+## Example
+
+Example class vladimirExample: 
+
+```bash
+use githubinphpcomposer;
+vladimirExample::instance()->showText('Hi');
+```
