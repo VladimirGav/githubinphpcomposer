@@ -27,6 +27,5 @@ composer require vladimirgav/githubinphpcomposer
 Example class vladimirExample:  
 
 ```bash
-use githubinphpcomposer;
-vladimirExample::instance()->showText('Hi');
+\githubinphpcomposer\vladimirExample::instance()->showText('hi vladimirExample');
 ```
