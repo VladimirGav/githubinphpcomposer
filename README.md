@@ -10,6 +10,7 @@ git add --all
 git commit -a -m 'комментарий'
 git tag v1.0.0
 git push origin v1.0.0
+git push
 ```
 4. Регистрируемся на сайте https://packagist.org/packages/submit через GitHub, вводим ссылку на репозиторий GitHub (https://github.com/VladimirGav/githubinphpcomposer) и нажимаем кнопку Check и Submit.
 
