@@ -24,7 +24,7 @@ composer require vladimirgav/githubinphpcomposer
 
 ## Example
 
-Example class vladimirExample: 
+Example class vladimirExample:  
 
 ```bash
 use githubinphpcomposer;
